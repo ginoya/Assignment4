@@ -7,8 +7,19 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Assignment4/1.0.0": {
+        "dependencies": {
+          "ClassLibrary": "1.0.0.0"
+        },
         "runtime": {
           "Assignment4.dll": {}
+        }
+      },
+      "ClassLibrary/1.0.0.0": {
+        "runtime": {
+          "ClassLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -16,6 +27,11 @@
   "libraries": {
     "Assignment4/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibrary/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

@@ -12,3 +12,7 @@ C:\Dev\.Net Assigments\Assignment4\obj\Debug\net6.0\refint\Assignment4.dll
 C:\Dev\.Net Assigments\Assignment4\obj\Debug\net6.0\Assignment4.pdb
 C:\Dev\.Net Assigments\Assignment4\obj\Debug\net6.0\Assignment4.genruntimeconfig.cache
 C:\Dev\.Net Assigments\Assignment4\obj\Debug\net6.0\ref\Assignment4.dll
+C:\Dev\.Net Assigments\Assignment4\obj\Debug\net6.0\Assignment4.csproj.AssemblyReference.cache
+C:\Dev\.Net Assigments\Assignment4\bin\Debug\net6.0\ClassLibrary.dll
+C:\Dev\.Net Assigments\Assignment4\bin\Debug\net6.0\ClassLibrary.pdb
+C:\Dev\.Net Assigments\Assignment4\obj\Debug\net6.0\Assignment4.csproj.CopyComplete

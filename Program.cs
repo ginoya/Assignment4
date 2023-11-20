@@ -1,4 +1,6 @@
-﻿namespace Assignment4
+﻿using ClassLibrary;
+
+namespace Assignment4
 {
     internal class Program
     {
